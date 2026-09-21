@@ -1,5 +1,5 @@
 -Maldives
--BMarrackech
+-Marrackech
 -Miami
 -Switzerland
 -Australia
