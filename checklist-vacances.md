@@ -1,4 +1,5 @@
 -Maldives
 -Bahamas
 -Miami
+-Switzerland
 
